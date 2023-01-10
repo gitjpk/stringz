@@ -2,11 +2,33 @@
 
 Initial purpose of StringZ is to allow you to have a clear follow up of the strings usage on your tennis racket through a Microsoft Excel file.
 
+Version 2 add balls and grips support.
+
 ## How to "install"
 
 The file is based on several tabs.
 Initial configuration is done in the "settings" tab.
+You just have to add your racket names. Current version only support 2 different rackets. Most players have the same racket, so just name them Brand-Model-01 and Brand-Model-02.
+
+The other settings that can be customized are:
+- Days (absolute) to change strings: Value in days (default is 30)
+- Days (absolute) to change grips: Value in days (default is 30)
+- Hours played to change strings: Value in hours (default is 10)
+- Hours played to change grips: Value in hours (default is 15).
 
 ## How to use
 
 Just add new "events" in the data tab and the dashboard will be automatically updaded.
+
+The event types are the following:
+- Strings change: Used when you re-string your racket (or when you start with a new racket)
+- Grip change: Used when you re-grip your racket (or when you start with a new racket)
+- Play: Used when you play
+- New Balls: Used when you change balls.
+
+The event can have a duration and a description. It depends the event type:
+- Strings change: Just add the string name in description.
+- Grip change: Just add the string name in description.
+- Play: Just add the time played in duration (and any comment comment you want in description).
+- New Balls: Just add the number of ball with the following syntax in description: Number <b>x</b> brand. Example (8xWilson)
+
