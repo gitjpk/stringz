@@ -7,14 +7,19 @@ Version 2 add balls and grips support.
 ## How to "install"
 
 The file is based on several tabs.
-Initial configuration is done in the "settings" tab.
-You just have to add your racket names. Current version only support 2 different rackets. Most players have the same racket, so just name them Brand-Model-01 and Brand-Model-02.
+
+Initial configuration is done in the **"settings" tab**.<br>
+You just have to add your racket names.<br>
+Current version only support 2 different rackets.<br>Most players have the same racket, so just name them Brand-Model-01 and Brand-Model-02.
 
 The other settings that can be customized are:
 - Days (absolute) to change strings: Value in days (default is 30)
 - Days (absolute) to change grips: Value in days (default is 30)
 - Hours played to change strings: Value in hours (default is 10)
 - Hours played to change grips: Value in hours (default is 15).
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/26025150/211674094-1533c2d7-532d-4139-811c-3da62f672fc9.png">
+
 
 ## How to use
 
@@ -32,3 +37,6 @@ The event can have a duration and a description. It depends the event type:
 - Play: Just add the time played in duration (and any comment comment you want in description).
 - New Balls: Just add the number of ball with the following syntax in description: Number <b>x</b> brand. Example (8xWilson)
 
+## Sample data
+
+Here is a data set that can be used to see the result of the dashboard with data.
