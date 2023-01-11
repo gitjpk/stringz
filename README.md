@@ -31,7 +31,7 @@ The other settings that can be customized are:
 Just add new "events" in the data tab and the dashboard will be automatically updaded.
 
 The event types are the following:
-- Strings change: Used when you re-string your racket (or when you start with a new racket)
+- Strings change: Used when you re-string your racket (or when you start with a new racket). Please use unique name for strings to have stats.
 - Grip change: Used when you re-grip your racket (or when you start with a new racket)
 - Play: Used when you play
 - New Balls: Used when you change balls.
