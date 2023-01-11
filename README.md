@@ -4,6 +4,11 @@ Initial purpose of StringZ is to allow you to have a clear follow up of the stri
 
 Version 2 add balls and grips support.
 
+## How to "download"
+
+Last version of the file is under /stringz/ folder.<br>
+Direct link is here: https://github.com/gitjpk/stringz/raw/main/stringz/Stringz_v2.1.xlsx
+
 ## How to "install"
 
 The file is based on several tabs.
