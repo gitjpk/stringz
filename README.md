@@ -44,4 +44,8 @@ The event can have a duration and a description. It depends the event type:
 
 ## Sample data
 
-Here is a data set that can be used to see the result of the dashboard with data.
+Here is a data set that can be used to see the result of the dashboard with data:<br>
+https://github.com/gitjpk/stringz/raw/main/stringz/Stringz_v2.1_withSampleData.xlsx
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/26025150/211760889-577c026f-6c01-4c39-8e41-ca2521405e19.png">
+
