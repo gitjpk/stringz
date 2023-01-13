@@ -2,6 +2,17 @@
 All notable changes to this project will be documented in this file.
 
 
+## [2.3] - Not released
+ 
+### Added
+
+### Changed
+
+### Fixed
+
+Issue #5 Fixed ""Wrong grip Xlookup in dashboard"" again<br>
+
+
 ## [2.2] - 2023-01-13
   
 Update to readme.md with update steps.
