@@ -7,7 +7,7 @@ Version 2 add balls and grips support.
 ## How to "download"
 
 Last version of the file is under /stringz/ folder.<br>
-Direct link is here: https://github.com/gitjpk/stringz/raw/main/stringz/Stringz_v2.1.xlsx
+Direct link is here: https://github.com/gitjpk/stringz/raw/main/stringz/Stringz_v2.2.xlsx
 
 ## How to "install"
 
