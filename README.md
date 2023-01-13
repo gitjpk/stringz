@@ -31,6 +31,7 @@ The other settings that can be customized are:
 <b>Then</b>, copy / <b>paste value only</b> the datas.
 
 To paste value, right clic, select paste special, then values:<br>
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/26025150/212340255-841f82c9-a8a2-4d54-a741-8f03613833e5.png">
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/26025150/212339673-205192ec-8586-42e8-93f2-dae86bdead85.png">
 
 
