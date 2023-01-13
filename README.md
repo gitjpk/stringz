@@ -25,6 +25,14 @@ The other settings that can be customized are:
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/26025150/211674094-1533c2d7-532d-4139-811c-3da62f672fc9.png">
 
+## How to "upgrade"
+
+<b>Start</b> with copy / <b>paste value only</b> the rackets.<br>
+<b>Then</b>, copy / <b>paste value only</b> the datas.
+
+To paste value, right clic, select paste special, then values:<br>
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/26025150/212339673-205192ec-8586-42e8-93f2-dae86bdead85.png">
+
 
 ## How to use
 
