@@ -2,14 +2,15 @@
 
 Initial purpose of StringZ is to allow you to have a clear follow up of the strings usage on your tennis racket through a Microsoft Excel file.
 
-Version 2 add balls and grips support.
+Version 2 add balls and grips support.<br>
+
+Version 3 is currently in beta phase - no support nor documentation yet.<br>
+https://github.com/gitjpk/stringz/tree/main/stringzV3
 
 ## How to "download"
 
 Last version of the file is under /stringz/ folder.<br>
-Direct link is here: https://github.com/gitjpk/stringz/raw/main/stringz/Stringz_v2.2.xlsx<br>
-
-Version 3 is currently in beta phase - no support nor documentation yet.
+Direct link is here: https://github.com/gitjpk/stringz/raw/main/stringz/Stringz_v2.2.xlsx
 
 ## How to "install"
 
