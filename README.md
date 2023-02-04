@@ -8,7 +8,7 @@ Version 3 is a full redesign - feedbacks are welcomed<br>
 ## How to "download"
 
 Last version of the file is under /stringz/ folder.<br>
-Direct link is here: https://github.com/gitjpk/stringz/raw/main/stringz/Stringz_v3.xlsx
+Direct link is here: https://github.com/gitjpk/stringz/raw/main/stringz/Stringz_v3.0.xlsx
 
 ## How to "install"
 
